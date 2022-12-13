@@ -37,3 +37,9 @@ go.work
 main
 tmp
 vendor
+
+# iml file
+*.iml
+
+# app
+loggerServiceApp
